@@ -1,7 +1,7 @@
 # National_Defense_Quiz
 💡2022 국방데이터 활용 경진대회 출품작
 
-![quizMain](./readmeSources/quizMain.jpeg)
+![quizMain](./readmeSources/quizMain.png)
 
 * 서비스 개요
 * 서비스 명: <strong>국방 퀴즈 (National Defense Quiz)</strong>
