@@ -27,6 +27,7 @@
 				* 점수 랭킹
 			* 관리자 페이지 공지사항
 				* 공지사항 추가 | 수정 | 삭제
+![quizMain](./readmeSources/Notice.png)
 			* 관리자 페이지 유저 관리
 				* 사용자 정보 수정 및 삭제
 	* 김현수 < [Github](https://github.com/qqaazz0222) >
